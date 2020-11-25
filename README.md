@@ -1,5 +1,7 @@
 # api-challenge
 
+# Conclusions below
+
 **WeatherPy**
 > Create a series of scatter plots to showcase the following relationships:
 >> * Temperature (F) vs. Latitude
@@ -34,4 +36,4 @@ Plan a future vacation.
   >> * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.  
 >> * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-
+# Conclusions
