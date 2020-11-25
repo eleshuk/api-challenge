@@ -54,4 +54,4 @@ Plan a future vacation.
 >> * Northern Hemisphere - Wind Speed (mph) vs. Latitude shows weak to no positive correlation between wind speed and latitude. 
 >> * Southern Hemisphere - Wind Speed (mph) vs. Latitude shows a weak to moderate negative correlation between wind speed and latitude. This means that as one travels closer to the equator, wind speeds decrease.
 
-**Set output_data file for image of hotels heatmap**
+**See output_data file for image of hotels heatmap**
